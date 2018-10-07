@@ -1,0 +1,30 @@
+{
+   "$schema": "https://sigmaways.com/hiot/configLog/schema#",
+   "title": "VideoFile",
+   "description": " ",
+   "type": " ",
+   "Signature": "0xf005",
+	
+   "properties": {
+
+
+      "time": {
+         "description": " erty",
+         "type": "HHMMSSDDMM"
+      },
+
+      "Filelength": {
+         "description": " rree",
+         "type": "number"
+      },
+			
+      "File": {
+         "description": " tatga",
+         "type": "String"
+      }
+
+   },
+	
+   "required":["time", "Filelength", "File"]
+}
+

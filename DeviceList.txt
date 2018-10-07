@@ -1,0 +1,24 @@
+{
+   "$schema": "https://sigmaways.com/hiot/configLog/schema#",
+   "title": "DeviceList",
+   "description": " ",
+   "type": " ",
+   "Signature": "0xf004",
+	
+   "properties": {
+	
+      "TransactionId": {
+         "description": " ",
+         "type": "number"
+      },
+		
+      "Name": {
+         "description": " ",
+         "type": "StringArray"
+      }
+
+   },
+	
+   "required":["TransactionId", "Name"]
+}
+

@@ -1,0 +1,12 @@
+{
+ "signature": "0xf004",
+ "TransactionId": 1234,
+ "length": 23, 
+ "Snippet":"Hello"
+}
+{
+  "signature": "0xf005",
+  "time": "0110000108",
+  "Filelength": 1024,
+  "File": "play.mp4"
+}

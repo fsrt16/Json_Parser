@@ -1,0 +1,32 @@
+{
+   "$schema": "https://sigmaways.com/hiot/configLog/schema#",
+   "title": "VoiceCommand",
+   "description": " ",
+   "type": " ",
+   "Signature": "0xf008",
+	
+   "properties": {
+	
+      "TransactionId": {
+         "description": " ",
+         "type": "Number"
+      },
+		
+      "CRC": {
+         "description": " ",
+         "type": "Number"
+      },
+      "voiceSignature": {
+         "description": " ",
+         "type": "string"
+      },
+      "length": {
+         "description": " ",
+         "type": "Number"
+      }
+
+   },
+	
+   "required":["TransactionId", "CRC", "voiceSignature", "length"]
+}
+
